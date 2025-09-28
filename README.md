@@ -1,0 +1,1 @@
+Projeto que implementa uma calculadora usando python e possui GUI utilizando da biblioteca "tkinter" de python. A calculadora possui operações como soma, subtração e multiplicação que podem ser feitas usando os botões da calculadora.
